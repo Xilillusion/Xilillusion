@@ -2,7 +2,9 @@
 
 # Hi there👋
 
-**Master of Data Science Candidate @ UBC | B.Sc. Computing Science @ UAlberta · AI / ML & Systems Builder**
+**Master of Data Science Candidate @ UBC | B.Sc. Computing Science @ UAlberta**
+
+AI / ML Builder
 
 [![Website](https://img.shields.io/badge/Portfolio-xilillusion.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xilillusion.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-@xilillusion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xilillusion)
