@@ -56,10 +56,10 @@ AI / ML Builder (Sadly a vibe coder)
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Game-Tree & RL Solvers** | Algorithmic search engines implementing bitboards, Zobrist hashing, transposition tables, Alpha-Beta Negamax, MCTS, and DQN across classic board/card games. | `Python` `PyTorch` `NumPy` |
-| **[Dibella's Wardrobe](https://github.com/xilillusion)** | Standalone 3D NIF/head mesh viewer & wardrobe previewer featuring custom GLSL skin/cloth shaders, Mod Organizer 2 VFS integration, and real-time soft-body/cloth physics simulation. | `Python` `PySide6` `OpenGL` `GLSL` |
+| **[Dibella's Wardrobe](https://github.com/xilillusion)** | Standalone 3D NIF/head mesh viewer & wardrobe previewer featuring custom GLSL skin/cloth shaders, Mod Organizer 2 VFS integration, and real-time CBPC and SMP physics simulation. | `Python` `PySide6` `OpenGL` `GLSL` |
 | **[Vectorized Wordle Solver](https://github.com/xilillusion)** | High-throughput solver suite leveraging precomputed NumPy feedback matrices, Shannon entropy maximization, two-step beam-search lookahead, and compiled JSON decision trees. | `Python` `NumPy` `Information Theory` |
 | **[PixelWriter](https://xilillusion.github.io/PixelWriter/index.html)** | Browser utility that encodes TXT, PDF, and Markdown notes into ultra-dense 1-bit monochrome PNG grids (down to 5×5 pixel glyphs). | `JavaScript` `HTML5 Canvas` |
-| **[Minecraft BE Totem Maker](https://xilillusion.github.io/Minecraft-BE-Totem-Maker/)** | In-browser generator that converts 2D images or 64×64 / 128×128 player skins with built-in cropping and unique UUIDs into importable `.mcpack` Totem of Undying resource packs for Minecraft Bedrock Edition. | `JavaScript` `HTML5 Canvas` `JSZip` |
+| **[Minecraft BE Totem Maker](https://xilillusion.github.io/Minecraft-BE-Totem-Maker/)** | In-browser generator that converts 2D images or 64×64 / 128×128 player skins with built-in cropping and unique UUIDs into importable `.mcpack` Totem of Undying resource packs for Minecraft Bedrock Edition. | `JavaScript` `HTML5 Canvas` |
 
 ---
 
