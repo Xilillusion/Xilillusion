@@ -2,12 +2,11 @@
 
 # Hi there👋
 
-**Master of Data Science Candidate @ UBC | B.Sc. Computing Science @ UAlberta**
+**Master of Data Science Candidate @ UBC | B.Sc. Computing Science & Economics minor @ UAlberta**
 
-AI / ML Builder
+AI / ML Builder (Sadly a vibe coder)
 
 [![Website](https://img.shields.io/badge/Portfolio-xilillusion.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xilillusion.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-@xilillusion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xilillusion)
 
 </div>
 
@@ -15,9 +14,9 @@ AI / ML Builder
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pursuing my **Master of Data Science (MDS)** at the **University of British Columbia** *(B.Sc. in Computing Science & Economics minor, University of Alberta)*
-- 🔬 Focused on **statistical modeling, machine learning, game-tree search, and real-time 3D rendering/physics tools**
-- 🛠️ Outside of ML pipelines, I enjoy building self-hosted Linux/OpenWrt networking infrastructure, custom GLSL shaders, and tinkering with hardware
+- 🎓 Pursuing my **Master of Data Science (MDS)** at the **University of British Columbia** 
+- 🔬 Focused on **statistical modeling, machine learning, game-tree search, and real-time 3D rendering**
+- 🛠️ Outside of ML pipelines, I enjoy building self-hosted Linux/OpenWrt networking infrastructure and tinkering with hardware
 
 ---
 
@@ -56,10 +55,11 @@ AI / ML Builder
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **Game-Tree & RL Solvers** | Algorithmic search engines implementing bitboards, Zobrist hashing, transposition tables, Alpha-Beta Negamax, MCTS, and DQN across classic board/card games. | `Python` `PyTorch` `NumPy` |
 | **[Dibella's Wardrobe](https://github.com/xilillusion)** | Standalone 3D NIF/head mesh viewer & wardrobe previewer featuring custom GLSL skin/cloth shaders, Mod Organizer 2 VFS integration, and real-time soft-body/cloth physics simulation. | `Python` `PySide6` `OpenGL` `GLSL` |
 | **[Vectorized Wordle Solver](https://github.com/xilillusion)** | High-throughput solver suite leveraging precomputed NumPy feedback matrices, Shannon entropy maximization, two-step beam-search lookahead, and compiled JSON decision trees. | `Python` `NumPy` `Information Theory` |
-| **Game-Tree & RL Solvers** | Algorithmic search engines implementing bitboards, Zobrist hashing, transposition tables, Alpha-Beta Negamax, MCTS, and DQN across classic board/card games. | `Python` `PyTorch` `NumPy` |
 | **[PixelWriter](https://xilillusion.github.io/PixelWriter/index.html)** | Browser utility that encodes TXT, PDF, and Markdown notes into ultra-dense 1-bit monochrome PNG grids (down to 5×5 pixel glyphs). | `JavaScript` `HTML5 Canvas` |
+| **[Minecraft BE Totem Maker](https://xilillusion.github.io/Minecraft-BE-Totem-Maker/)** | In-browser generator that converts 2D images or 64×64 / 128×128 player skins with built-in cropping and unique UUIDs into importable `.mcpack` Totem of Undying resource packs for Minecraft Bedrock Edition. | `JavaScript` `HTML5 Canvas` `JSZip` |
 
 ---
 
