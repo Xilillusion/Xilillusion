@@ -4,7 +4,7 @@
 
 **Master of Data Science Candidate @ UBC | B.Sc. Computing Science & Economics minor @ UAlberta**
 
-AI / ML Builder (Sadly a vibe coder)
+AI / ML Builder (Sadly not a vibe coder)
 
 [![Website](https://img.shields.io/badge/Portfolio-xilillusion.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xilillusion.github.io)
 
